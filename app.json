@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Learning react native",
+    "githubUrl": "https://github.com/kawkjw/weatherapp"
   }
 }
